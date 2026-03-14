@@ -18,9 +18,9 @@
 
 | 套件 | 版本 |
 |------|------|
-| Python | ≥ 3.10 |
-| opencv-python | ≥ 4.8 |
-| numpy | ≥ 1.24 |
+| Python |  3.10 |
+| opencv-python |  4.8 |
+| numpy |  1.24 |
 
 > **不需要** PyTorch 或 CUDA。
 
