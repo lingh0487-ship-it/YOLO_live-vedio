@@ -1,4 +1,4 @@
-# 🚦 高雄交通監控系統
+# 🚦 交通監控系統
 
 即時車輛偵測系統，使用 YOLOv4-tiny + OpenCV，支援任意 RTSP / HTTP 串流，並自動將偵測結果輸出至 CSV。
 
@@ -122,7 +122,3 @@ python traffic_monitor.py --url <串流網址> --no-display
 | `Ctrl+C` | 強制中斷（終端機） |
 
 ---
-
-## 📝 License
-
-MIT
